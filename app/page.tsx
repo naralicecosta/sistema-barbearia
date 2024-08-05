@@ -1,6 +1,6 @@
-"use cliente";
-import { useState } from "react";
+"use cliente"
+import { Button } from "@/components/ui/button"
 const Home = () => {
-  return <h1>home page </h1>;
-};
-export default Home;
+  return <Button>oi</Button>
+}
+export default Home
